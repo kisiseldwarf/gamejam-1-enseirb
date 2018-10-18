@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/14 - GameJam/inthedarkness/gamejam-1-enseirb/Classes/player.cpp
+stdio.h
+-
+player.h
+D:/14 - GameJam/inthedarkness/gamejam-1-enseirb/Classes/player.h
+
+D:/14 - GameJam/inthedarkness/gamejam-1-enseirb/Classes/player.h
+time.h
+-
+
+D:/14 - GameJam/inthedarkness/gamejam-1-enseirb/main.cpp
+stdio.h
+-
+stdlib.h
+-
+Classes/player.h
+D:/14 - GameJam/inthedarkness/gamejam-1-enseirb/Classes/player.h
+

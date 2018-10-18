@@ -1,0 +1,4 @@
+"D:\8 - Logiciels\JetBrains\CLion 2018.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "D:\14 - GameJam\inthedarkness\gamejam-1-enseirb"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/14 - GameJam/inthedarkness/gamejam-1-enseirb/cmake-build-debug
