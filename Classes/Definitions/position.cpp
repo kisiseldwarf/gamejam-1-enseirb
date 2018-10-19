@@ -1,4 +1,4 @@
-#include "position.h"
+#include "../Declarations/position.h"
 
 position::position() {
     this->_x = 0;

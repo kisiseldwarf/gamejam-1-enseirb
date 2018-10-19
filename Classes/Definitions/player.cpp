@@ -1,5 +1,5 @@
 #include <cstdio>
-#include "player.h"
+#include "../Declarations/player.h"
 
 #define MAX_HUNGER 100
 #define DEC_HUNGER 20

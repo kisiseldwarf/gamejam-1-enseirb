@@ -11,6 +11,9 @@ private:
     int _hunger;
     int _life;
     position _pos;
+    position _beginJump;
+    bool _toStop;
+    bool _forward;
 
 public:
     // Constructors
